@@ -16,6 +16,7 @@ header{
        background-repeat: no-repeat;
      
      background-position: top left, bottom right;
+     
 }
     
 /* shared styles */
@@ -66,7 +67,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin:0px 200px;
 }
 nav li{
     list-style: none;
